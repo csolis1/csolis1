@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">My name is Celida Solis</h1>
-<h3 align="center">I am a passionate full stack developer from Atlanta. I would be able to immerse myself in and contribute to various projects that promote innovation and I seek to have my passion amplified by people who share the same resolve.  </h3>
+<h3 align="center">I am a passionate full stack developer. I would be able to immerse myself in and contribute to various projects that promote innovation and I seek to have my passion amplified by people who share the same resolve.  </h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
