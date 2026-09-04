@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <h1 align="center">My name is Celida Solis</h1>
-<h3 align="center"> Full-stack Software Engineer and Solutions Engineer with experience turning ambiguous, real-world problems into working software, from rapid prototyping and proof-of-concept for enterprise clients to production data pipelines and full-stack applications.
+<h3 align="center"> Full-stack Software Engineer and Solutions Engineer with experience working across various stages in the software development lifecycle, from rapid prototyping and proof-of-concept for enterprise clients to production data pipelines and full-stack applications.
  
-I'm especially driven by mission-oriented work: tools that help organizations serve people better, make sense of complex data, and act on it with confidence.  </h3>
+I'm especially driven by mission-oriented work to create tools that help organizations serve people better, make sense of complex data, and act on it with confidence.  </h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
